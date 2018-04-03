@@ -1,0 +1,119 @@
+2018-03-20 12:48:28,960 INFO c.s.t.a.a.s.u.StudentMenu [main] 
+==========Student Repository==========
+1) Add Student.
+2) Delete Student.
+3) Print Student.
+4) Add Marks to the Student.
+5) Query Student Based on Rank.
+6) Exit.
+Enter Your Choice : 
+2018-03-20 12:48:31,713 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter Student Details : 
+2018-03-20 12:48:31,714 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter ID : 
+2018-03-20 12:48:34,049 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter Student Name : 
+2018-03-20 12:48:36,241 INFO c.s.t.a.a.s.u.StudentMenu [main] Student Added.
+2018-03-20 12:48:36,241 INFO c.s.t.a.a.s.u.StudentMenu [main] Do you want to add more student ?(y/n)
+2018-03-20 12:48:38,128 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter Student Details : 
+2018-03-20 12:48:38,128 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter ID : 
+2018-03-20 12:48:40,624 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter Student Name : 
+2018-03-20 12:48:46,881 INFO c.s.t.a.a.s.u.StudentMenu [main] Student Added.
+2018-03-20 12:48:46,881 INFO c.s.t.a.a.s.u.StudentMenu [main] Do you want to add more student ?(y/n)
+2018-03-20 12:48:48,928 INFO c.s.t.a.a.s.u.StudentMenu [main] 
+==========Student Repository==========
+1) Add Student.
+2) Delete Student.
+3) Print Student.
+4) Add Marks to the Student.
+5) Query Student Based on Rank.
+6) Exit.
+Enter Your Choice : 
+2018-03-20 12:48:50,610 INFO c.s.t.a.a.s.u.StudentMenu [main] 
+==========Student Repository==========
+1) Add Student.
+2) Delete Student.
+3) Print Student.
+4) Add Marks to the Student.
+5) Query Student Based on Rank.
+6) Exit.
+Enter Your Choice : 
+2018-03-20 12:48:54,000 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter Student Mark Details : 
+2018-03-20 12:48:54,001 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter ID : 
+2018-03-20 12:48:57,873 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter marks for id 1:
+2018-03-20 12:48:57,873 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter subject 1 marks : 
+2018-03-20 12:49:04,529 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter subject 2 marks : 
+2018-03-20 12:49:05,856 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter subject 3 marks : 
+2018-03-20 12:49:08,112 INFO c.s.t.a.a.s.u.StudentMenu [main] Marks Added for student 1.
+2018-03-20 12:49:08,112 INFO c.s.t.a.a.s.u.StudentMenu [main] 
+==========Student Repository==========
+1) Add Student.
+2) Delete Student.
+3) Print Student.
+4) Add Marks to the Student.
+5) Query Student Based on Rank.
+6) Exit.
+Enter Your Choice : 
+2018-03-20 12:49:13,537 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter Student Mark Details : 
+2018-03-20 12:49:13,537 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter ID : 
+2018-03-20 12:49:18,609 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter marks for id 2:
+2018-03-20 12:49:18,609 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter subject 1 marks : 
+2018-03-20 12:49:24,001 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter subject 2 marks : 
+2018-03-20 12:49:24,881 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter subject 3 marks : 
+2018-03-20 12:49:25,633 INFO c.s.t.a.a.s.u.StudentMenu [main] Id is not found. Marks not added.
+2018-03-20 12:49:25,634 INFO c.s.t.a.a.s.u.StudentMenu [main] 
+==========Student Repository==========
+1) Add Student.
+2) Delete Student.
+3) Print Student.
+4) Add Marks to the Student.
+5) Query Student Based on Rank.
+6) Exit.
+Enter Your Choice : 
+2018-03-20 12:49:48,980 INFO c.s.t.a.a.s.u.StudentMenu [main] 
+==========Student Repository==========
+1) Add Student.
+2) Delete Student.
+3) Print Student.
+4) Add Marks to the Student.
+5) Query Student Based on Rank.
+6) Exit.
+Enter Your Choice : 
+2018-03-20 12:49:58,785 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter rank :
+2018-03-20 12:50:01,314 INFO c.s.t.a.a.s.u.StudentMenu [main] 
+==========Student Repository==========
+1) Add Student.
+2) Delete Student.
+3) Print Student.
+4) Add Marks to the Student.
+5) Query Student Based on Rank.
+6) Exit.
+Enter Your Choice : 
+2018-03-20 12:50:04,689 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter ID : 
+2018-03-20 12:50:05,601 INFO c.s.t.a.a.s.u.StudentMenu [main] Record is deleted.
+2018-03-20 12:50:05,602 INFO c.s.t.a.a.s.u.StudentMenu [main] 
+==========Student Repository==========
+1) Add Student.
+2) Delete Student.
+3) Print Student.
+4) Add Marks to the Student.
+5) Query Student Based on Rank.
+6) Exit.
+Enter Your Choice : 
+2018-03-20 12:50:08,642 INFO c.s.t.a.a.s.u.StudentMenu [main] 
+==========Student Repository==========
+1) Add Student.
+2) Delete Student.
+3) Print Student.
+4) Add Marks to the Student.
+5) Query Student Based on Rank.
+6) Exit.
+Enter Your Choice : 
+2018-03-20 12:50:11,458 INFO c.s.t.a.a.s.u.StudentMenu [main] Enter rank :
+2018-03-20 12:50:14,818 INFO c.s.t.a.a.s.u.StudentMenu [main] 
+==========Student Repository==========
+1) Add Student.
+2) Delete Student.
+3) Print Student.
+4) Add Marks to the Student.
+5) Query Student Based on Rank.
+6) Exit.
+Enter Your Choice : 
+2018-03-20 12:50:17,586 INFO c.s.t.a.a.s.u.StudentMenu [main] Program Terminated.
