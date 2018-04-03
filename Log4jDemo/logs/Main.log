@@ -1,0 +1,96 @@
+2018-03-16 19:05:30,603 INFO c.s.t.a.a.u.MainClient [main] 
+1. Fibonacci Series.
+2. Prime Number.
+3. Circle and Rectangle.
+
+2018-03-16 19:05:30,606 INFO c.s.t.a.a.u.MainClient [main] Enter your choice : 
+2018-03-16 19:05:36,425 INFO c.s.t.a.a.u.MainClient [main] 
+Displaying fibonacci series :
+2018-03-16 19:05:36,426 INFO c.s.t.a.a.u.MainClient [main] [1] : 0
+2018-03-16 19:05:36,426 INFO c.s.t.a.a.u.MainClient [main] [2] : 1
+2018-03-16 19:05:36,426 INFO c.s.t.a.a.u.MainClient [main] [3] : 1
+2018-03-16 19:05:36,426 INFO c.s.t.a.a.u.MainClient [main] [4] : 2
+2018-03-16 19:05:36,426 INFO c.s.t.a.a.u.MainClient [main] [5] : 3
+2018-03-16 19:05:36,426 INFO c.s.t.a.a.u.MainClient [main] [6] : 5
+2018-03-16 19:05:36,427 INFO c.s.t.a.a.u.MainClient [main] [7] : 8
+2018-03-16 19:05:36,427 INFO c.s.t.a.a.u.MainClient [main] [8] : 13
+2018-03-16 19:05:36,427 INFO c.s.t.a.a.u.MainClient [main] [9] : 21
+2018-03-16 19:05:36,427 INFO c.s.t.a.a.u.MainClient [main] [10] : 34
+2018-03-16 19:05:36,427 INFO c.s.t.a.a.u.MainClient [main] [11] : 55
+2018-03-16 19:05:36,427 INFO c.s.t.a.a.u.MainClient [main] [12] : 89
+2018-03-16 19:05:36,428 INFO c.s.t.a.a.u.MainClient [main] [13] : 144
+2018-03-16 19:05:36,428 INFO c.s.t.a.a.u.MainClient [main] [14] : 233
+2018-03-16 19:05:36,428 INFO c.s.t.a.a.u.MainClient [main] [15] : 377
+2018-03-16 19:05:36,428 INFO c.s.t.a.a.u.MainClient [main] [16] : 610
+2018-03-16 19:05:36,428 INFO c.s.t.a.a.u.MainClient [main] [17] : 987
+2018-03-16 19:05:36,428 INFO c.s.t.a.a.u.MainClient [main] [18] : 1597
+2018-03-16 19:05:36,428 INFO c.s.t.a.a.u.MainClient [main] [19] : 2584
+2018-03-16 19:05:36,428 INFO c.s.t.a.a.u.MainClient [main] [20] : 4181
+2018-03-16 19:05:36,428 INFO c.s.t.a.a.u.MainClient [main] [21] : 6765
+2018-03-16 19:05:36,428 INFO c.s.t.a.a.u.MainClient [main] [22] : 10946
+2018-03-16 19:05:36,429 INFO c.s.t.a.a.u.MainClient [main] [23] : 17711
+2018-03-16 19:05:36,429 INFO c.s.t.a.a.u.MainClient [main] [24] : 28657
+2018-03-16 19:05:36,429 INFO c.s.t.a.a.u.MainClient [main] [25] : 46368
+2018-03-16 19:05:36,429 INFO c.s.t.a.a.u.MainClient [main] [26] : 75025
+2018-03-16 19:05:36,429 INFO c.s.t.a.a.u.MainClient [main] [27] : 121393
+2018-03-16 19:05:36,429 INFO c.s.t.a.a.u.MainClient [main] [28] : 196418
+2018-03-16 19:05:36,429 INFO c.s.t.a.a.u.MainClient [main] [29] : 317811
+2018-03-16 19:05:36,429 INFO c.s.t.a.a.u.MainClient [main] [30] : 514229
+2018-03-16 19:05:36,430 INFO c.s.t.a.a.u.MainClient [main] [31] : 832040
+2018-03-16 19:05:36,430 INFO c.s.t.a.a.u.MainClient [main] [32] : 1346269
+2018-03-16 19:05:36,430 INFO c.s.t.a.a.u.MainClient [main] [33] : 2178309
+2018-03-16 19:05:36,431 INFO c.s.t.a.a.u.MainClient [main] [34] : 3524578
+2018-03-16 19:05:36,431 INFO c.s.t.a.a.u.MainClient [main] [35] : 5702887
+2018-03-16 19:05:36,431 INFO c.s.t.a.a.u.MainClient [main] [36] : 9227465
+2018-03-16 19:05:36,431 INFO c.s.t.a.a.u.MainClient [main] [37] : 14930352
+2018-03-16 19:05:36,431 INFO c.s.t.a.a.u.MainClient [main] [38] : 24157817
+2018-03-16 19:05:36,431 INFO c.s.t.a.a.u.MainClient [main] [39] : 39088169
+2018-03-16 19:05:36,431 INFO c.s.t.a.a.u.MainClient [main] [40] : 63245986
+2018-03-16 19:05:36,432 INFO c.s.t.a.a.u.MainClient [main] [41] : 102334155
+2018-03-16 19:05:36,432 INFO c.s.t.a.a.u.MainClient [main] [42] : 165580141
+2018-03-16 19:05:36,432 INFO c.s.t.a.a.u.MainClient [main] [43] : 267914296
+2018-03-16 19:05:36,432 INFO c.s.t.a.a.u.MainClient [main] [44] : 433494437
+2018-03-16 19:05:36,432 INFO c.s.t.a.a.u.MainClient [main] [45] : 701408733
+2018-03-16 19:05:36,433 INFO c.s.t.a.a.u.MainClient [main] [46] : 1134903170
+2018-03-16 19:05:36,434 INFO c.s.t.a.a.u.MainClient [main] [47] : 1836311903
+2018-03-16 19:05:36,434 INFO c.s.t.a.a.u.MainClient [main] [48] : 2971215073
+2018-03-16 19:05:36,434 INFO c.s.t.a.a.u.MainClient [main] [49] : 4807526976
+2018-03-16 19:05:36,434 INFO c.s.t.a.a.u.MainClient [main] [50] : 7778742049
+2018-03-16 19:05:56,099 INFO c.s.t.a.a.u.MainClient [main] 
+1. Fibonacci Series.
+2. Prime Number.
+3. Circle and Rectangle.
+
+2018-03-16 19:05:56,101 INFO c.s.t.a.a.u.MainClient [main] Enter your choice : 
+2018-03-16 19:05:58,777 INFO c.s.t.a.a.u.MainClient [main] 
+Enter any number : 
+2018-03-16 19:06:01,658 INFO c.s.t.a.a.u.MainClient [main] 
+2 is a Prime Number.
+2018-03-16 19:06:09,756 INFO c.s.t.a.a.u.MainClient [main] 
+1. Fibonacci Series.
+2. Prime Number.
+3. Circle and Rectangle.
+
+2018-03-16 19:06:09,758 INFO c.s.t.a.a.u.MainClient [main] Enter your choice : 
+2018-03-16 19:06:13,786 INFO c.s.t.a.a.u.MainClient [main] 
+Enter any number : 
+2018-03-16 19:06:15,899 INFO c.s.t.a.a.u.MainClient [main] 
+10 is not a Prime Number.
+2018-03-16 19:06:25,748 INFO c.s.t.a.a.u.MainClient [main] 
+1. Fibonacci Series.
+2. Prime Number.
+3. Circle and Rectangle.
+
+2018-03-16 19:06:25,750 INFO c.s.t.a.a.u.MainClient [main] Enter your choice : 
+2018-03-16 19:06:29,067 INFO c.s.t.a.a.u.MainClient [main] 
+Enter radius of the circle : 
+2018-03-16 19:06:33,182 INFO c.s.t.a.a.u.MainClient [main] 
+Area of the circle is : 50.24
+2018-03-16 19:06:33,182 INFO c.s.t.a.a.u.MainClient [main] 
+Circumference of the circle is : 25.12
+2018-03-16 19:06:33,182 INFO c.s.t.a.a.u.MainClient [main] 
+Enter length and breadth of the rectangle : 
+2018-03-16 19:06:41,003 INFO c.s.t.a.a.u.MainClient [main] 
+Area of the rectangle is : 24
+2018-03-16 19:06:41,004 INFO c.s.t.a.a.u.MainClient [main] 
+Circumference of the rectangle is : 20
