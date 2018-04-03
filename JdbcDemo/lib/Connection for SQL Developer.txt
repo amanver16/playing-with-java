@@ -1,0 +1,27 @@
+package com.stpl.trainee.aman.miniproject1.jdbcconnection;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+public class EmployeeJdbcConnection {
+	private Logger logger = LogManager.getLogger(EmployeeJdbcConnection.class);
+	private String databaseURL = "jdbc:sqlserver://10.4.48.18:1433;databaseName=BPIGTN_TRAINEE";
+	private String username = "bpigtn_trainee";
+	private String pass = "trainee_sysbiz";
+	public boolean employeeJdbcConnection() {
+		boolean isConnected = false;
+		try(Connection connection = DriverManager.getConnection(databaseURL, username, pass)){
+			if (connection != null) {
+				logger.info("Connection Established !!");
+				isConnected = true;
+			}
+		}catch (SQLException sqlException) {
+			logger.info(sqlException);
+		}
+		return isConnected;
+	}
+}

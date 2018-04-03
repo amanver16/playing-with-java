@@ -1,0 +1,9 @@
+2018-01-30 20:43:33,015 INFO c.s.t.a.m.e.DeleteEmployee [main] 
+The employee having id 0 is not available in the databse.
+2018-01-30 21:07:56,222 INFO c.s.t.a.m.e.DeleteEmployee [main] 
+The employee having id 101 is not available in the databse.
+2018-01-31 03:16:21,379 INFO c.s.t.a.m.e.DeleteEmployee [main] Incorrect syntax near the keyword 'CONSTRAINT'.
+2018-01-31 03:17:43,728 INFO c.s.t.a.m.e.DeleteEmployee [main] The statement did not return a result set.
+2018-01-31 03:20:50,389 INFO c.s.t.a.m.e.DeleteEmployee [main] There is already an object named 'FK_Personal_Academic_Cascade' in the database.
+2018-01-31 03:25:00,998 INFO c.s.t.a.m.e.DeleteEmployee [main] There is already an object named 'FK_Personal_Academic_Cascade' in the database.
+2018-01-31 03:32:34,083 INFO c.s.t.a.m.e.DeleteEmployee [main] The statement did not return a result set.

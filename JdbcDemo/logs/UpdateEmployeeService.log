@@ -1,0 +1,140 @@
+2018-01-30 21:08:35,817 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Which column do you want to update ?
+1. Name
+2. Age
+3. Gender
+4. Designation
+5. Address
+6. Salary
+7. No Updation
+
+Enter your choice : 
+2018-01-30 21:08:45,679 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Enter new age :
+2018-01-30 21:08:48,089 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Employee age updated.
+2018-01-30 21:08:48,405 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Do you want to update more column ?(y/n)
+2018-01-30 23:50:45,708 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Which column do you want to update ?
+1. Name
+2. Age
+3. Gender
+4. Designation
+5. Address
+6. Salary
+7. No Updation
+
+Enter your choice : 
+2018-01-30 23:50:49,437 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Enter new age :
+2018-01-30 23:50:52,624 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Employee age updated.
+2018-01-30 23:50:52,637 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Do you want to update more column ?(y/n)
+2018-01-30 23:51:00,661 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Which column do you want to update ?
+1. Name
+2. Age
+3. Gender
+4. Designation
+5. Address
+6. Salary
+7. No Updation
+
+Enter your choice : 
+2018-01-30 23:51:19,194 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+No columns updated.
+2018-01-30 23:52:52,900 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Which column do you want to update ?
+1. Degree
+2. Pass Year
+3. Percentage
+4. No Updation
+2018-01-30 23:53:02,767 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Enter new pass year :
+2018-01-30 23:53:11,269 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Employee pass year updated.
+2018-01-30 23:53:11,352 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Do you want to update any more column ?(y/n)
+2018-01-30 23:53:14,084 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Which column do you want to update ?
+1. Degree
+2. Pass Year
+3. Percentage
+4. No Updation
+2018-01-30 23:53:17,336 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+No column updated.
+2018-01-30 23:58:17,597 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Which column do you want to update ?
+1. Company
+2. Designation
+3. Join Date
+4. Relieve Date
+5. No Updation
+
+Enter your choice : 
+2018-01-30 23:58:28,304 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Enter new designation : 
+2018-01-30 23:58:34,570 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Employee designation updated.
+
+2018-01-30 23:58:34,638 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Do you want to update more columns ?(y/n)
+2018-01-30 23:58:45,829 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Which column do you want to update ?
+1. Company
+2. Designation
+3. Join Date
+4. Relieve Date
+5. No Updation
+
+Enter your choice : 
+2018-01-30 23:58:51,935 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+No columns are updated.
+
+2018-01-30 23:59:47,351 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Which column do you want to update ?
+1. Company
+2. Designation
+3. Join Date
+4. Relieve Date
+5. No Updation
+
+Enter your choice : 
+2018-01-30 23:59:54,929 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Enter new company : 
+2018-01-31 00:00:06,914 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Employee company updated.
+
+2018-01-31 00:00:07,046 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Do you want to update more columns ?(y/n)
+2018-01-31 00:03:22,175 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Which column do you want to update ?
+1. Company
+2. Designation
+3. Join Date
+4. Relieve Date
+5. No Updation
+
+Enter your choice : 
+2018-01-31 00:03:24,756 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+No columns are updated.
+
+2018-01-31 00:03:37,147 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Which column do you want to update ?
+1. Company
+2. Designation
+3. Join Date
+4. Relieve Date
+5. No Updation
+
+Enter your choice : 
+2018-01-31 00:03:41,850 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Enter new company : 
+2018-01-31 00:04:19,798 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Employee company updated.
+
+2018-01-31 00:04:19,818 INFO c.s.t.a.m.e.UpdateEmployee [main] 
+Do you want to update more columns ?(y/n)
+2018-01-31 00:04:28,220 INFO c.s.t.a.m.e.UpdateEmployee [main] true

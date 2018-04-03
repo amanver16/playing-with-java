@@ -1,0 +1,1111 @@
+2018-01-30 19:50:07,319 INFO c.s.t.a.m.e.ShowEmployee [main] Displaying Employee(s) Personal Information:
+2018-01-30 19:50:07,335 INFO c.s.t.a.m.e.ShowEmployee [main] 1 
+2018-01-30 19:50:07,335 INFO c.s.t.a.m.e.ShowEmployee [main] Aman 
+2018-01-30 19:50:07,335 INFO c.s.t.a.m.e.ShowEmployee [main] 22 
+2018-01-30 19:50:07,335 INFO c.s.t.a.m.e.ShowEmployee [main] Male 
+2018-01-30 19:50:07,335 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee 
+2018-01-30 19:50:07,335 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai 
+2018-01-30 19:50:07,335 INFO c.s.t.a.m.e.ShowEmployee [main] 10000 
+2018-01-30 19:53:06,730 INFO c.s.t.a.m.e.ShowEmployee [main] Displaying Employee(s) Personal Information:
+2018-01-30 19:53:06,766 INFO c.s.t.a.m.e.ShowEmployee [main] 1 
+2018-01-30 19:53:06,767 INFO c.s.t.a.m.e.ShowEmployee [main] Aman 
+2018-01-30 19:53:06,768 INFO c.s.t.a.m.e.ShowEmployee [main] 22 
+2018-01-30 19:53:06,768 INFO c.s.t.a.m.e.ShowEmployee [main] Male 
+2018-01-30 19:53:06,769 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee 
+2018-01-30 19:53:06,769 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai 
+2018-01-30 19:53:06,770 INFO c.s.t.a.m.e.ShowEmployee [main] 10000 
+2018-01-30 19:53:06,771 INFO c.s.t.a.m.e.ShowEmployee [main] 3 
+2018-01-30 19:53:06,771 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak 
+2018-01-30 19:53:06,772 INFO c.s.t.a.m.e.ShowEmployee [main] 23 
+2018-01-30 19:53:06,773 INFO c.s.t.a.m.e.ShowEmployee [main] Male 
+2018-01-30 19:53:06,774 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee 
+2018-01-30 19:53:06,774 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai 
+2018-01-30 19:53:06,775 INFO c.s.t.a.m.e.ShowEmployee [main] 80000 
+2018-01-30 20:06:41,141 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 20:06:41,151 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 1 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] Aman 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 22 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] Male 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 10000 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 3 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 23 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] Male 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 80000 
+2018-01-30 20:06:41,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:09:14,173 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 20:09:14,176 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] 1 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] Aman 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] 22 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] Male 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] 10000 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] 3 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] 23 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] Male 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] 80000 
+2018-01-30 20:09:14,178 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:17:31,539 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 20:17:31,555 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:17:31,556 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID | NAME | AGE | DESIGNATION | ADDRESS | SALARY
+
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] 1 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] Aman 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] 22 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] Male 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] 10000 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID | NAME | AGE | DESIGNATION | ADDRESS | SALARY
+
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] 3 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] 23 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] Male 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] 80000 
+2018-01-30 20:17:31,557 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:19:03,496 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 20:19:03,511 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:19:03,511 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID | NAME | AGE | DESIGNATION | ADDRESS | SALARY
+
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] 1   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] Aman   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] 22   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] Male   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] 10000   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID | NAME | AGE | DESIGNATION | ADDRESS | SALARY
+
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] 3   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] 23   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] Male   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] 80000   
+2018-01-30 20:19:03,513 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------
+2018-01-30 20:21:44,933 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 20:21:44,934 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:21:44,934 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] 1   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] Aman   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] 22   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] Male   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] 10000   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] 3   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] 23   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] Male   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] 80000   
+2018-01-30 20:21:44,936 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:22:53,950 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 20:22:53,965 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:22:53,965 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] 22  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] 10000  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] 80000  
+2018-01-30 20:22:53,967 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:34:58,232 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 20:34:58,233 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:34:58,233 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] 22  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] 10000  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] 80000  
+2018-01-30 20:34:58,244 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:35:13,112 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Academic Information :
+2018-01-30 20:35:13,117 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:35:13,117 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-30 20:35:13,117 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 20:35:13,117 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-30 20:35:13,117 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-30 20:35:13,117 INFO c.s.t.a.m.e.ShowEmployee [main] 9.9  
+2018-01-30 20:35:13,118 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:35:26,145 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Previous Employement Information :
+2018-01-30 20:35:26,145 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 20:35:26,145 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-30 20:35:26,145 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 20:35:26,145 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-30 20:35:26,145 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-30 20:35:26,154 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-04  
+2018-01-30 20:35:26,154 INFO c.s.t.a.m.e.ShowEmployee [main] 2017-12-12  
+2018-01-30 20:35:26,154 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:01:47,702 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 21:01:47,709 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:01:47,709 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 21:01:47,711 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 21:01:47,711 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-30 21:01:47,711 INFO c.s.t.a.m.e.ShowEmployee [main] 22  
+2018-01-30 21:01:47,711 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 21:01:47,711 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 21:01:47,711 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 21:01:47,711 INFO c.s.t.a.m.e.ShowEmployee [main] 10000  
+2018-01-30 21:01:47,711 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:06:28,175 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 21:06:28,181 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:06:28,181 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] 22  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] 10000  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] 101  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] fxgfxg  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] 12  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] k  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] bh  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] hj  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-30 21:06:28,183 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:06:50,148 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Academic Information :
+2018-01-30 21:06:50,148 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:06:50,163 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-30 21:06:50,163 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 21:06:50,163 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-30 21:06:50,163 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-30 21:06:50,164 INFO c.s.t.a.m.e.ShowEmployee [main] 9.9  
+2018-01-30 21:06:50,164 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:07:05,874 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Previous Employement Information :
+2018-01-30 21:07:05,875 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:07:05,875 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-30 21:07:05,876 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 21:07:05,877 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-30 21:07:05,877 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-30 21:07:05,880 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-04  
+2018-01-30 21:07:05,881 INFO c.s.t.a.m.e.ShowEmployee [main] 2017-12-12  
+2018-01-30 21:07:05,881 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:09:11,074 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 21:09:11,074 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 21:09:11,087 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 21:09:11,087 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 21:09:11,087 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-30 21:09:11,087 INFO c.s.t.a.m.e.ShowEmployee [main] 99  
+2018-01-30 21:09:11,087 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 21:09:11,087 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 21:09:11,087 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 21:09:11,088 INFO c.s.t.a.m.e.ShowEmployee [main] 10000  
+2018-01-30 21:09:11,088 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:44:46,956 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 23:44:46,966 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:44:46,966 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 23:44:46,968 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 23:44:46,968 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-30 23:44:46,968 INFO c.s.t.a.m.e.ShowEmployee [main] 99  
+2018-01-30 23:44:46,968 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 23:44:46,968 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 23:44:46,968 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 23:44:46,968 INFO c.s.t.a.m.e.ShowEmployee [main] 10000  
+2018-01-30 23:44:46,968 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:45:02,351 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Academic Information :
+2018-01-30 23:45:02,351 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:45:02,364 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-30 23:45:02,364 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 23:45:02,364 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-30 23:45:02,365 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-30 23:45:02,365 INFO c.s.t.a.m.e.ShowEmployee [main] 9.9  
+2018-01-30 23:45:02,365 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:45:06,799 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Previous Employement Information :
+2018-01-30 23:45:06,799 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:45:06,811 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-30 23:45:06,811 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 23:45:06,812 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-30 23:45:06,812 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-30 23:45:06,814 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-04  
+2018-01-30 23:45:06,815 INFO c.s.t.a.m.e.ShowEmployee [main] 2017-12-12  
+2018-01-30 23:45:06,815 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:22,210 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 23:49:22,210 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:22,212 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 23:49:22,212 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 23:49:22,212 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-30 23:49:22,212 INFO c.s.t.a.m.e.ShowEmployee [main] 99  
+2018-01-30 23:49:22,212 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 23:49:22,212 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 23:49:22,212 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 23:49:22,213 INFO c.s.t.a.m.e.ShowEmployee [main] 10000  
+2018-01-30 23:49:22,213 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:22,213 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:22,213 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 23:49:22,213 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-30 23:49:22,213 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-30 23:49:22,213 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-30 23:49:22,213 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 23:49:22,214 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 23:49:22,214 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 23:49:22,214 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-30 23:49:22,214 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:33,469 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Academic Information :
+2018-01-30 23:49:33,469 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:33,469 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-30 23:49:33,469 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 23:49:33,470 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-30 23:49:33,470 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-30 23:49:33,470 INFO c.s.t.a.m.e.ShowEmployee [main] 9.9  
+2018-01-30 23:49:33,470 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:33,470 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:33,470 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-30 23:49:33,470 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-30 23:49:33,470 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-30 23:49:33,471 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-30 23:49:33,471 INFO c.s.t.a.m.e.ShowEmployee [main] 90.0  
+2018-01-30 23:49:33,471 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:46,208 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Previous Employement Information :
+2018-01-30 23:49:46,208 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:46,208 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-30 23:49:46,208 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 23:49:46,218 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-30 23:49:46,218 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-30 23:49:46,218 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-04  
+2018-01-30 23:49:46,218 INFO c.s.t.a.m.e.ShowEmployee [main] 2017-12-12  
+2018-01-30 23:49:46,219 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:46,219 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:49:46,219 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-30 23:49:46,219 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-30 23:49:46,219 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-30 23:49:46,219 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-30 23:49:46,219 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-12  
+2018-01-30 23:49:46,220 INFO c.s.t.a.m.e.ShowEmployee [main] 2018-06-12  
+2018-01-30 23:49:46,220 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:52:33,677 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-30 23:52:33,677 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:52:33,680 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 23:52:33,680 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 23:52:33,680 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-30 23:52:33,680 INFO c.s.t.a.m.e.ShowEmployee [main] 22  
+2018-01-30 23:52:33,681 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 23:52:33,681 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 23:52:33,681 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 23:52:33,681 INFO c.s.t.a.m.e.ShowEmployee [main] 10000  
+2018-01-30 23:52:33,681 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:52:33,681 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:52:33,682 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-30 23:52:33,682 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-30 23:52:33,682 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-30 23:52:33,682 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-30 23:52:33,682 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-30 23:52:33,682 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-30 23:52:33,682 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-30 23:52:33,682 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-30 23:52:33,683 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:53:32,963 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Academic Information :
+2018-01-30 23:53:32,963 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:53:32,963 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-30 23:53:32,976 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-30 23:53:32,976 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-30 23:53:32,976 INFO c.s.t.a.m.e.ShowEmployee [main] 2017  
+2018-01-30 23:53:32,976 INFO c.s.t.a.m.e.ShowEmployee [main] 9.9  
+2018-01-30 23:53:32,976 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:53:32,977 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-30 23:53:32,977 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-30 23:53:32,977 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-30 23:53:32,977 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-30 23:53:32,977 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-30 23:53:32,977 INFO c.s.t.a.m.e.ShowEmployee [main] 90.0  
+2018-01-30 23:53:32,977 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 01:15:52,272 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 01:15:52,298 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 01:15:52,298 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 01:15:52,309 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 01:15:52,309 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-31 01:15:52,309 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-31 01:15:52,309 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 01:15:52,309 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 01:15:52,309 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 01:15:52,309 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 01:15:52,309 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 01:36:05,851 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 01:36:05,851 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 01:36:05,857 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 01:36:05,889 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 01:36:05,889 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-31 01:36:05,889 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-31 01:36:05,889 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 01:36:05,889 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 01:36:05,889 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 01:36:05,889 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 01:36:05,889 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:41:27,657 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 02:41:27,657 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:41:27,666 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 02:41:27,669 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 02:41:27,669 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-31 02:41:27,669 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-31 02:41:27,669 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 02:41:27,669 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 02:41:27,669 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 02:41:27,669 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 02:41:27,669 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:45:24,530 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 02:45:24,531 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:45:24,531 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] Anil  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] 25  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] Delhi  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 02:45:24,532 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:45:31,456 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Previous Employement Information :
+2018-01-31 02:45:31,456 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:45:31,456 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-31 02:45:31,456 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 02:45:31,456 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-31 02:45:31,456 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-12  
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] 2018-06-12  
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] TCS  
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] 2014-06-12  
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] 2016-12-10  
+2018-01-31 02:45:31,603 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:45:37,232 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Academic Information :
+2018-01-31 02:45:37,232 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 02:45:37,232 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-31 02:45:37,232 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 02:45:37,232 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-31 02:45:37,232 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-31 02:45:37,239 INFO c.s.t.a.m.e.ShowEmployee [main] 90.0  
+2018-01-31 02:45:37,240 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:16:09,117 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 03:16:09,118 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:16:09,118 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] Anil  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] 25  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] Delhi  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:16:09,127 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:17:34,061 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 03:17:34,061 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:17:34,062 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] Anil  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] 25  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] Delhi  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:17:34,063 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:18:07,546 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 03:18:07,560 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:18:07,560 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:18:07,560 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 03:18:07,560 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-31 03:18:07,561 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-31 03:18:07,561 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:18:07,561 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 03:18:07,561 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 03:18:07,561 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:18:07,562 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:18:07,562 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:18:07,562 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:18:07,563 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 03:18:07,563 INFO c.s.t.a.m.e.ShowEmployee [main] Anil  
+2018-01-31 03:18:07,563 INFO c.s.t.a.m.e.ShowEmployee [main] 25  
+2018-01-31 03:18:07,563 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:18:07,563 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 03:18:07,563 INFO c.s.t.a.m.e.ShowEmployee [main] Delhi  
+2018-01-31 03:18:07,563 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:18:07,563 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:24:53,644 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 03:24:53,658 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:24:53,658 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] Anil  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] 25  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] Delhi  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:24:53,660 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:32:24,448 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 03:32:24,456 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:32:24,456 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] Anil  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] 25  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] Delhi  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:32:24,458 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:35:44,140 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 03:35:44,149 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:35:44,150 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 03:35:44,150 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 03:35:44,150 INFO c.s.t.a.m.e.ShowEmployee [main] Deepak  
+2018-01-31 03:35:44,150 INFO c.s.t.a.m.e.ShowEmployee [main] 23  
+2018-01-31 03:35:44,150 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 03:35:44,150 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 03:35:44,150 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 03:35:44,150 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 03:35:44,150 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:35:48,143 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Academic Information :
+2018-01-31 03:35:48,143 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:35:48,143 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-31 03:35:48,143 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 03:35:48,143 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-31 03:35:48,143 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-31 03:35:48,144 INFO c.s.t.a.m.e.ShowEmployee [main] 90.0  
+2018-01-31 03:35:48,144 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:35:50,660 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Previous Employement Information :
+2018-01-31 03:35:50,660 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 03:35:50,660 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-31 03:35:50,660 INFO c.s.t.a.m.e.ShowEmployee [main] 2  
+2018-01-31 03:35:50,660 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-31 03:35:50,660 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-31 03:35:50,671 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-12  
+2018-01-31 03:35:50,673 INFO c.s.t.a.m.e.ShowEmployee [main] 2018-06-12  
+2018-01-31 03:35:50,673 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 10:25:09,041 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 10:25:09,042 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 10:25:09,042 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 10:25:09,051 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 10:25:09,052 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-31 10:25:09,052 INFO c.s.t.a.m.e.ShowEmployee [main] 22  
+2018-01-31 10:25:09,052 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 10:25:09,052 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 10:25:09,052 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 10:25:09,052 INFO c.s.t.a.m.e.ShowEmployee [main] 5000  
+2018-01-31 10:25:09,053 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 10:25:15,830 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Academic Information :
+2018-01-31 10:25:15,830 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 10:25:15,830 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-31 10:25:15,830 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 10:25:15,830 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-31 10:25:15,830 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-31 10:25:15,830 INFO c.s.t.a.m.e.ShowEmployee [main] 9.9  
+2018-01-31 10:25:15,830 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 10:25:18,250 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Previous Employement Information :
+2018-01-31 10:25:18,250 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 10:25:18,250 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-31 10:25:18,251 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 10:25:18,251 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-31 10:25:18,251 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-31 10:25:18,253 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-04  
+2018-01-31 10:25:18,255 INFO c.s.t.a.m.e.ShowEmployee [main] 2017-12-12  
+2018-01-31 10:25:18,255 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 10:59:10,445 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 10:59:10,446 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 10:59:10,446 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 10:59:10,456 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 10:59:10,457 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-31 10:59:10,457 INFO c.s.t.a.m.e.ShowEmployee [main] 22  
+2018-01-31 10:59:10,457 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 10:59:10,457 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 10:59:10,457 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 10:59:10,457 INFO c.s.t.a.m.e.ShowEmployee [main] 5000  
+2018-01-31 10:59:10,457 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 10:59:10,457 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 10:59:10,458 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 10:59:10,458 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 10:59:10,458 INFO c.s.t.a.m.e.ShowEmployee [main] Anil  
+2018-01-31 10:59:10,458 INFO c.s.t.a.m.e.ShowEmployee [main] 25  
+2018-01-31 10:59:10,458 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 10:59:10,458 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 10:59:10,458 INFO c.s.t.a.m.e.ShowEmployee [main] Delhi  
+2018-01-31 10:59:10,458 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 10:59:10,458 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:31,856 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Personal Information:
+2018-01-31 11:06:31,857 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:31,857 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 11:06:31,866 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 11:06:31,867 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-31 11:06:31,867 INFO c.s.t.a.m.e.ShowEmployee [main] 22  
+2018-01-31 11:06:31,867 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 11:06:31,867 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 11:06:31,867 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 11:06:31,867 INFO c.s.t.a.m.e.ShowEmployee [main] 5000  
+2018-01-31 11:06:31,868 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:31,868 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:31,868 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|NAME|AGE|GENDER|DESIGNATION|ADDRESS|SALARY
+
+2018-01-31 11:06:31,868 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 11:06:31,868 INFO c.s.t.a.m.e.ShowEmployee [main] Anil  
+2018-01-31 11:06:31,868 INFO c.s.t.a.m.e.ShowEmployee [main] 25  
+2018-01-31 11:06:31,868 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 11:06:31,868 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 11:06:31,868 INFO c.s.t.a.m.e.ShowEmployee [main] Delhi  
+2018-01-31 11:06:31,868 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 11:06:31,869 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:37,825 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Academic Information :
+2018-01-31 11:06:37,825 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:37,825 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-31 11:06:37,825 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 11:06:37,825 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-31 11:06:37,826 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-31 11:06:37,826 INFO c.s.t.a.m.e.ShowEmployee [main] 9.9  
+2018-01-31 11:06:37,826 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:37,826 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:37,826 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|DEGREE|PASSYEAR|PERCENTAGE
+
+2018-01-31 11:06:37,826 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 11:06:37,826 INFO c.s.t.a.m.e.ShowEmployee [main] BCA  
+2018-01-31 11:06:37,826 INFO c.s.t.a.m.e.ShowEmployee [main] 2014  
+2018-01-31 11:06:37,827 INFO c.s.t.a.m.e.ShowEmployee [main] 80.5  
+2018-01-31 11:06:37,827 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:40,311 INFO c.s.t.a.m.e.ShowEmployee [main] 
+Displaying Employee(s) Previous Employement Information :
+2018-01-31 11:06:40,311 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:40,311 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-31 11:06:40,312 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 11:06:40,312 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-31 11:06:40,312 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-31 11:06:40,314 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-04  
+2018-01-31 11:06:40,314 INFO c.s.t.a.m.e.ShowEmployee [main] 2017-12-12  
+2018-01-31 11:06:40,314 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:40,314 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 11:06:40,315 INFO c.s.t.a.m.e.ShowEmployee [main] 
+ID|COMPANY|DESIGNATION|JOINDATE|RELIEVEDATE
+
+2018-01-31 11:06:40,315 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 11:06:40,315 INFO c.s.t.a.m.e.ShowEmployee [main] TCS  
+2018-01-31 11:06:40,315 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 11:06:40,315 INFO c.s.t.a.m.e.ShowEmployee [main] 2014-06-12  
+2018-01-31 11:06:40,315 INFO c.s.t.a.m.e.ShowEmployee [main] 2016-12-10  
+2018-01-31 11:06:40,315 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 12:13:53,217 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 12:13:53,227 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 12:13:53,227 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-31 12:13:53,228 INFO c.s.t.a.m.e.ShowEmployee [main] 22  
+2018-01-31 12:13:53,228 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 12:13:53,228 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 12:13:53,228 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 12:13:53,228 INFO c.s.t.a.m.e.ShowEmployee [main] 5000  
+2018-01-31 12:13:53,228 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 12:13:53,228 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-31 12:13:53,228 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-31 12:13:53,228 INFO c.s.t.a.m.e.ShowEmployee [main] 9.9  
+2018-01-31 12:13:53,228 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 12:13:53,229 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-31 12:13:53,229 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-31 12:13:53,231 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-04  
+2018-01-31 12:13:53,231 INFO c.s.t.a.m.e.ShowEmployee [main] 2017-12-12  
+2018-01-31 12:13:53,231 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 12:13:53,231 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 12:13:53,231 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 12:13:53,232 INFO c.s.t.a.m.e.ShowEmployee [main] Anil  
+2018-01-31 12:13:53,232 INFO c.s.t.a.m.e.ShowEmployee [main] 25  
+2018-01-31 12:13:53,232 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 12:13:53,232 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 12:13:53,232 INFO c.s.t.a.m.e.ShowEmployee [main] Delhi  
+2018-01-31 12:13:53,232 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 12:13:53,232 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 12:13:53,232 INFO c.s.t.a.m.e.ShowEmployee [main] BCA  
+2018-01-31 12:13:53,232 INFO c.s.t.a.m.e.ShowEmployee [main] 2014  
+2018-01-31 12:13:53,233 INFO c.s.t.a.m.e.ShowEmployee [main] 80.5  
+2018-01-31 12:13:53,233 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 12:13:53,233 INFO c.s.t.a.m.e.ShowEmployee [main] TCS  
+2018-01-31 12:13:53,233 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 12:13:53,233 INFO c.s.t.a.m.e.ShowEmployee [main] 2014-06-12  
+2018-01-31 12:13:53,233 INFO c.s.t.a.m.e.ShowEmployee [main] 2016-12-10  
+2018-01-31 12:13:53,233 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+2018-01-31 12:16:19,315 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+
+2018-01-31 12:16:19,325 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 12:16:19,325 INFO c.s.t.a.m.e.ShowEmployee [main] Aman  
+2018-01-31 12:16:19,326 INFO c.s.t.a.m.e.ShowEmployee [main] 22  
+2018-01-31 12:16:19,326 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 12:16:19,326 INFO c.s.t.a.m.e.ShowEmployee [main] Trainee  
+2018-01-31 12:16:19,326 INFO c.s.t.a.m.e.ShowEmployee [main] Chennai  
+2018-01-31 12:16:19,326 INFO c.s.t.a.m.e.ShowEmployee [main] 5000  
+2018-01-31 12:16:19,326 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 12:16:19,326 INFO c.s.t.a.m.e.ShowEmployee [main] MCA  
+2018-01-31 12:16:19,326 INFO c.s.t.a.m.e.ShowEmployee [main] 2018  
+2018-01-31 12:16:19,326 INFO c.s.t.a.m.e.ShowEmployee [main] 9.9  
+2018-01-31 12:16:19,327 INFO c.s.t.a.m.e.ShowEmployee [main] 1  
+2018-01-31 12:16:19,327 INFO c.s.t.a.m.e.ShowEmployee [main] College  
+2018-01-31 12:16:19,327 INFO c.s.t.a.m.e.ShowEmployee [main] Student  
+2018-01-31 12:16:19,329 INFO c.s.t.a.m.e.ShowEmployee [main] 2015-06-04  
+2018-01-31 12:16:19,329 INFO c.s.t.a.m.e.ShowEmployee [main] 2017-12-12  
+2018-01-31 12:16:19,329 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+
+2018-01-31 12:16:19,329 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+
+2018-01-31 12:16:19,329 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 12:16:19,330 INFO c.s.t.a.m.e.ShowEmployee [main] Anil  
+2018-01-31 12:16:19,330 INFO c.s.t.a.m.e.ShowEmployee [main] 25  
+2018-01-31 12:16:19,330 INFO c.s.t.a.m.e.ShowEmployee [main] Male  
+2018-01-31 12:16:19,330 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 12:16:19,330 INFO c.s.t.a.m.e.ShowEmployee [main] Delhi  
+2018-01-31 12:16:19,330 INFO c.s.t.a.m.e.ShowEmployee [main] 20000  
+2018-01-31 12:16:19,330 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 12:16:19,330 INFO c.s.t.a.m.e.ShowEmployee [main] BCA  
+2018-01-31 12:16:19,330 INFO c.s.t.a.m.e.ShowEmployee [main] 2014  
+2018-01-31 12:16:19,331 INFO c.s.t.a.m.e.ShowEmployee [main] 80.5  
+2018-01-31 12:16:19,331 INFO c.s.t.a.m.e.ShowEmployee [main] 3  
+2018-01-31 12:16:19,331 INFO c.s.t.a.m.e.ShowEmployee [main] TCS  
+2018-01-31 12:16:19,331 INFO c.s.t.a.m.e.ShowEmployee [main] Clerk  
+2018-01-31 12:16:19,331 INFO c.s.t.a.m.e.ShowEmployee [main] 2014-06-12  
+2018-01-31 12:16:19,332 INFO c.s.t.a.m.e.ShowEmployee [main] 2016-12-10  
+2018-01-31 12:16:19,332 INFO c.s.t.a.m.e.ShowEmployee [main] 
+--------------------------------------------------------
+
