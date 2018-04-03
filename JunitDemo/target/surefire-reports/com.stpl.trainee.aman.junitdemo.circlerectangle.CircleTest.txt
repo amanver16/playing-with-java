@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.stpl.trainee.aman.junitdemo.circlerectangle.CircleTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.866 sec
