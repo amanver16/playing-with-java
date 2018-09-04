@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+	<Appenders>
+
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%msg%n" />
+		</Console>
+		<File name="AddStudentService" fileName="logs/AddStudentService.log">
+			<PatternLayout>
+				<Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+			</PatternLayout>
+		</File>
+		<File name="RemoveStudentService" fileName="logs/RemoveStudentService.log">
+			<PatternLayout>
+				<Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+			</PatternLayout>
+		</File>
+		<File name="ShowStudentService" fileName="logs/ShowStudentService.log">
+			<PatternLayout>
+				<Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+			</PatternLayout>
+		</File>
+		<File name="EditStudentService" fileName="logs/EditStudentService.log">
+			<PatternLayout>
+				<Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+			</PatternLayout>
+		</File>
+	</Appenders>
+	<Loggers>
+		<Root level="info">
+			<AppenderRef ref="Console" />
+		</Root>
+		<Logger
+			name="com.stpl.trainee.aman.assignment8.studentrepository.service.AddStudentService"
+			level="info" additivity="false">
+			<AppenderRef ref="Console" />
+			<appender-ref ref="AddStudentService" />
+		</Logger>
+		<Logger
+			name="com.stpl.trainee.aman.assignment8.studentrepository.service.RemoveStudentService"
+			level="info" additivity="false">
+			<AppenderRef ref="Console" />
+			<appender-ref ref="RemoveStudentService" />
+		</Logger>
+		<Logger
+			name="com.stpl.trainee.aman.assignment8.studentrepository.service.ShowStudentService"
+			level="info" additivity="false">
+			<AppenderRef ref="Console" />
+			<appender-ref ref="ShowStudentService" />
+		</Logger>
+		<Logger
+			name="com.stpl.trainee.aman.assignment8.studentrepository.service.EditStudentService"
+			level="info" additivity="false">
+			<AppenderRef ref="Console" />
+			<appender-ref ref="EditStudentService" />
+		</Logger>
+	</Loggers>
+</Configuration>
