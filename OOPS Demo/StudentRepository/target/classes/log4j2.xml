@@ -24,7 +24,7 @@
 
 		<!-- Student Service File Appender -->
 
-		<File name="Service" fileName="logs/StudenService.log">
+		<File name="Service" fileName="logs/StudentService.log">
 			<PatternLayout>
 				<Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
 			</PatternLayout>
