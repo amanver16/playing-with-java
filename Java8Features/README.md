@@ -6,3 +6,7 @@ Java 8 introduced some of very popular and rich features. This project is about 
 
 1. Lambda Expression
 2. Method References
+3. Functional Interface
+4. Method References
+5. Stream API
+6. Base64 Encode Decode
