@@ -2,7 +2,9 @@
 
 Lambda Expression was introduced in Java 8. It represents a functional interface with an expression. It is very powerful feature when used with collections. It can easily filter, sort, iterarte data in collections. Lambda expression can be used for any purpose. It saves a lot of code and time.
 
-> A lambda expression is just an anonymous function, i.e. a function with no name and is not bound to any identifier, so can be used anywhere like an expression.
+> A lambda expression is just an anonymous function, i.e. a function with no name and is not bound to any identifier, so can be used anywhere like an expression.  
+
+![Lambda Expressions Java 8](https://github.com/amanver16/ebooks_cheatsheets/blob/master/Images/Lambda%20Expressions%20Java%208.jpg)  
 
 **Functional Interface :**  
 Functional Interface is an interface which has exactly one method. In java, a functional interface can be represented using @FunctionalInterface annotation. However this annotation is optional, because Java automatically detects an interface as functional interface if it has only one method.
