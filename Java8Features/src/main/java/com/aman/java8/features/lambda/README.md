@@ -7,7 +7,7 @@ Lambda Expression was introduced in Java 8. It represents a functional interface
 **Functional Interface :**  
 Functional Interface is an interface which has exactly one method. In java, a functional interface can be represented using @FunctionalInterface annotation. However this annotation is optional, because Java automatically detects an interface as functional interface if it has only one method.
 
-**Higher Order Functions :**
+**Higher Order Functions :**  
 Higher order functions are functions are functions, which either accepts function as argument or return a function. Lambda expressions are required to implement higher order functions.
 
 **Syntax :**  
