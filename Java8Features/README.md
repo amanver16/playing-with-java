@@ -5,3 +5,4 @@ Java 8 introduced some of very popular and rich features. This project is about 
 ## Feature List
 
 1. Lambda Expression
+2. Method References
