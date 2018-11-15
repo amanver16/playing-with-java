@@ -12,8 +12,8 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
-		<spring.version>4.0.1.RELEASE</spring.version>
-		<jackson.version>2.9.4</jackson.version>
+		<spring.version>5.1.2.RELEASE</spring.version>
+		<jackson.version>2.9.7</jackson.version>
 	</properties>
 
 	<dependencies>
