@@ -12,9 +12,9 @@ Higher order functions are functions are functions, which either accepts functio
 
 **Syntax :**  
 > (arguments-list) -> { body }  
-OR
-> (argument-list) -> (statement)
-OR
+OR  
+> (argument-list) -> (statement)  
+OR  
 > () -> {body}
 
 1. **Argument List** represents the arguments of the funcion body. It can be empty or non empty.
@@ -31,19 +31,19 @@ The data type of argument list is optional. If not provided, compiler automatica
 **Optional Paranthesis around Argument List :**
 The paranthesis around argument list is optional, if and only if the argument list has exactly one argument. If it has no argument or multiple arguments, then the paranthesis are required.
 
-> a -> (a*a)
+> a -> (a*a)   
 > (int a, int b) -> {return a+b; }    
 
 **Optional Curly Braces :**
 The lambda expression body does not require curly braces if the expression body has only one statement. One statement can be defined within paranthesis. The paranthesis for one line statement expression body is also optional. For multiple statement in body, the curly braces are required.
 
-> (int a, int b) -> (a+b)
+> (int a, int b) -> (a+b)  
 > (int a, int b) -> a+b
 
 **Optional Return Keyword :**
 The expression body may or may not declare return keyword. If the body with multiple starement returns a value, then the body must be defined within curly braces. For single line statement within paranthesis, the lambda expression automatically returns the value.
 
-> (int a, int b) -> (a+b)
+> (int a, int b) -> (a+b)  
 > (int a, int b) -> {return a+b; }
 
 ## History of Lambdas
