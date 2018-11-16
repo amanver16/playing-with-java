@@ -15,3 +15,4 @@ Java 8 introduced some of very popular and rich features. This project is about 
 9. Collectors
 10. String Joiner
 11. Optional
+12. Nashorn
