@@ -12,3 +12,4 @@ Java 8 introduced some of very popular and rich features. This project is about 
 6. Base64 Encode Decode
 7. Default & Static Methods
 8. For Each Methods
+9. Collectors
