@@ -4,7 +4,7 @@ Collectors is a final class that extends Object class. It provides reduction ope
 ![Collectors](https://github.com/amanver16/ebooks_cheatsheets/blob/master/Images/Collectors%20Java%208.png)   
 
 ## About Project
-The project describes uses of forEach() and forEachOrdered() methods in different scenarios.  
+The project describes uses of Collectors class methods in different scenarios.  
 
 ## How to Run 
 Compile and run using provided main class.  
