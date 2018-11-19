@@ -15,8 +15,8 @@ public class EmbeddingJavaScript {
         // Creating Nashorn script engine
         ScriptEngine scriptEngine = new ScriptEngineManager().getEngineByName("Nashorn");
 
-        // Embedding Java Script code
         try {
+            // Embedding Java Script code
             scriptEngine.eval("print('Hello World')");
         } catch (ScriptException scriptException) {
             System.out.println(
