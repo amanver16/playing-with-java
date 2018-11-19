@@ -19,3 +19,4 @@ Java 8 introduced some of very popular and rich features. This project is about 
 13. Parallel Array Sorting
 14. Type Inference
 15. Method Parameter Reflection
+16. Type Annotations
