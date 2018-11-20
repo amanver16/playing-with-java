@@ -1,6 +1,0 @@
-projectKey=com.stpl.trainee.aman:JunitDemo
-serverUrl=http://localhost:9000
-serverVersion=6.7.1.35068
-dashboardUrl=http://localhost:9000/dashboard/index/com.stpl.trainee.aman:JunitDemo
-ceTaskId=AWEJsDJC2xQ5Cw_znPi_
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWEJsDJC2xQ5Cw_znPi_
