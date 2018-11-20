@@ -4,6 +4,7 @@ import javax.servlet.annotation.WebServlet;
 
 import com.aman.vaadin.window.PopupWindowDemo;
 import com.vaadin.annotations.Theme;
+import com.vaadin.annotations.Title;
 import com.vaadin.annotations.VaadinServletConfiguration;
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.server.VaadinServlet;
@@ -23,6 +24,7 @@ import com.vaadin.v7.ui.VerticalLayout;
  */
 @Theme("mytheme")
 @SuppressWarnings("deprecation")
+@Title("My UI")
 public class MyUI extends UI {
 
 	private static final long serialVersionUID = 1L;
@@ -30,7 +32,7 @@ public class MyUI extends UI {
 	@Override
 	protected void init(VaadinRequest vaadinRequest) {
 		
-		final VerticalLayout layout = new VerticalLayout();
+		VerticalLayout layout = new VerticalLayout();
 		
 		Button button = new Button("Click Me");
 		button.addClickListener(e -> {
@@ -45,6 +47,8 @@ public class MyUI extends UI {
 		comboBox.addItem("World");
 		comboBox.setWidth("500px");
 		layout.addComponent(comboBox);
+
+		setContent(layout);
 	}
 
 	@WebServlet(urlPatterns = "/*", name = "MyUIServlet", asyncSupported = true)
