@@ -1,8 +1,0 @@
-2018-01-26 17:01:06,650 INFO c.s.t.a.m.j.EmployeeJdbcConnection [main] com.microsoft.sqlserver.jdbc.SQLServerException: Login failed for user ''. ClientConnectionId:b08993ed-c97a-4255-9b8d-b551f67b8104
-2018-01-26 17:02:26,299 INFO c.s.t.a.m.j.EmployeeJdbcConnection [main] Connection Established !!
-2018-01-26 23:57:29,793 INFO c.s.t.a.m.j.EmployeeJdbcConnection [main] Connection Established !!
-2018-01-27 00:31:24,562 INFO c.s.t.a.m.j.EmployeeJdbcConnection [main] Connection Established !!
-2018-01-27 00:40:22,763 INFO c.s.t.a.m.j.EmployeeJdbcConnection [main] Connection Established !!
-2018-01-27 00:44:47,456 INFO c.s.t.a.m.j.EmployeeJdbcConnection [main] Connection Established !!
-2018-01-27 00:45:06,133 INFO c.s.t.a.m.j.EmployeeJdbcConnection [main] Connection Established !!
-2018-01-27 00:58:51,596 INFO c.s.t.a.m.j.EmployeeJdbcConnection [main] Connection Established !!
