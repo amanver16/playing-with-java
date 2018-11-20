@@ -14,9 +14,9 @@ import org.apache.logging.log4j.Logger;
 public class EmployeeJdbcConnection {
 
 	private final Logger connectionLogger = LogManager.getLogger(EmployeeJdbcConnection.class);
-	private String databaseURL = "jdbc:sqlserver://mysqlserver.cb7nxw5w5k4w.us-east-2.rds.amazonaws.com;databaseName=EmployeeDb";
-	private String username = "amanver16";
-	private String pass = "M3dh!Sql";
+	private String databaseURL = "jdbc:sqlserver://give-Database-Url-of-SqlServer;databaseName=EmployeeDb";
+	private String username = "Database_Username";
+	private String pass = "Database_Password";
 
 	// Method to establish connection
 	public Connection employeeJdbcConnection() {
