@@ -4,9 +4,9 @@
 	<session-factory>
 		<property name="hibernate.bytecode.use_reflection_optimizer">false</property>
 		<property name="hibernate.connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
-		<property name="hibernate.connection.url">jdbc:sqlserver://mysqlserver.cb7nxw5w5k4w.us-east-2.rds.amazonaws.com:1433;databaseName=StudentDb</property>
-		<property name="hibernate.connection.username">amanver16</property>
-		<property name="hibernate.connection.password">M3dh!Sql</property>
+		<property name="hibernate.connection.url">jdbc:sqlserver://UseYourSqlServerUrl:1433;databaseName=StudentDb</property>
+		<property name="hibernate.connection.username">GiveUsernameOfSqlServer</property>
+		<property name="hibernate.connection.password">GivePasswordOfSqlServer</property>
 		<property name="hibernate.dialect">org.hibernate.dialect.SQLServerDialect</property>
 		<property name="hibernate.search.autoregister_listeners">true</property>
 		<property name="hibernate.validator.apply_to_ddl">false</property>

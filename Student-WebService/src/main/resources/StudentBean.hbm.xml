@@ -7,7 +7,7 @@
 		dynamic-update="false" mutable="true"
 		name="com.stpl.trainee.aman.springrest.webservice.beans.StudentBean"
 		optimistic-lock="version" polymorphism="implicit" schema="dbo"
-		select-before-update="false" table="student_aman">
+		select-before-update="false" table="GiveStudentTableNameHere">
 		<id name="id" type="int">
 			<column name="id" />
 			<generator class="assigned" />
