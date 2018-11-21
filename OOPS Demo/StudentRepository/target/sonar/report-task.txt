@@ -1,6 +1,0 @@
-projectKey=com.stpl.trainee.aman.assignment3.StudentRepository:StudentRepository
-serverUrl=http://localhost:9000
-serverVersion=6.7.1.35068
-dashboardUrl=http://localhost:9000/dashboard/index/com.stpl.trainee.aman.assignment3.StudentRepository:StudentRepository
-ceTaskId=AWEhdp3nSftsPB_3Zgnz
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWEhdp3nSftsPB_3Zgnz
