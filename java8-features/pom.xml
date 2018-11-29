@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.aman.java8</groupId>
-    <artifactId>Java8Features</artifactId>
+    <artifactId>java8-features</artifactId>
     <version>1.0</version>
 
     <name>Java 8 Features</name>

@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.aman.vaadin</groupId>
-	<artifactId>ComboBoxDemo</artifactId>
+	<artifactId>combo-box-vaadin8-demo</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
 	<name>ComboBoxDemo</name>

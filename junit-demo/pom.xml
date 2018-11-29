@@ -7,28 +7,39 @@
 	<!-- ################### -->
 
 	<groupId>com.stpl.trainee.aman</groupId>
-	<artifactId>EmployeeManagementSystem</artifactId>
+	<artifactId>junit-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>EmployeeManagementSystem</name>
+	<name>JunitDemo</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 
 	<build>
 
 		<plugins>
 
+			<!-- Sonar Maven Plugin -->
+
+			<plugin>
+				<groupId>org.sonarsource.scanner.maven</groupId>
+				<artifactId>sonar-maven-plugin</artifactId>
+				<version>3.4.0.905</version>
+			</plugin>
+
 			<!-- Maven Compiler Plugin -->
 
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>2.3.1</version>
+				<version>3.3</version>
 				<configuration>
+					<compilerVersion>1.8</compilerVersion>
 					<source>1.8</source>
 					<target>1.8</target>
 				</configuration>
@@ -43,33 +54,11 @@
 		<!-- Junit Dependency -->
 
 		<dependency>
-			<groupId>JUNIT</groupId>
-			<artifactId>JUNIT</artifactId>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
 			<version>4.11</version>
 			<scope>test</scope>
 		</dependency>
-
-		<!-- Log4j Dependencies -->
-
-		<dependency>
-			<groupId>org.apache.logging.log4j</groupId>
-			<artifactId>log4j-API</artifactId>
-			<version>2.6.1</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.logging.log4j</groupId>
-			<artifactId>log4j-core</artifactId>
-			<version>2.6.1</version>
-		</dependency>
-
-		<!-- JDBC Dependency -->
-
-        <dependency>
-            <groupId>com.microsoft.sqlserver</groupId>
-            <artifactId>mssql-jdbc</artifactId>
-            <version>6.1.0.jre8</version>
-        </dependency>
 
 	</dependencies>
 

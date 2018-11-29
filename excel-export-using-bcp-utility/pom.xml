@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.stpl.bcp.excelexport</groupId>
-	<artifactId>ExcelExportUsingBCP</artifactId>
+	<artifactId>excel-export-using-bcp-utility</artifactId>
 	<version>1.0</version>
 
 	<name>ExcelExportUsingBCP</name>
