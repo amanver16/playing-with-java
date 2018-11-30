@@ -50,32 +50,46 @@
     <url-pattern>/viewStudent</url-pattern>
   </servlet-mapping>
 
+    <!-- Search Student Servlet -->
+
+  <servlet>
+    <servlet-name>SearchStudentServlet</servlet-name>
+    <servlet-class>com.aman.java.student.servlet.SearchStudentServlet</servlet-class>
+  </servlet>
+
+  <!-- Search Student Servlet Mapping -->
+
+  <servlet-mapping>
+    <servlet-name>SearchStudentServlet</servlet-name>
+    <url-pattern>/searchStudent</url-pattern>
+  </servlet-mapping>
+
   <!-- Update Student Servlet -->
 
-  <!-- <servlet>
+  <servlet>
     <servlet-name>UpdateStudentServlet</servlet-name>
     <servlet-class>com.aman.java.student.servlet.UpdateStudentServlet</servlet-class>
-  </servlet> -->
+  </servlet>
 
   <!-- Update Student Servlet Mapping -->
 
-<!--   <servlet-mapping>
+  <servlet-mapping>
     <servlet-name>UpdateStudentServlet</servlet-name>
     <url-pattern>/updateStudent</url-pattern>
-  </servlet-mapping> -->
+  </servlet-mapping>
 
   <!-- Delete Student Servlet -->
 
-<!--   <servlet>
+  <servlet>
     <servlet-name>DeleteStudentServlet</servlet-name>
     <servlet-class>com.aman.java.student.servlet.DeleteStudentServlet</servlet-class>
-  </servlet> -->
+  </servlet>
 
-  <!-- Update Student Servlet Mapping -->
+  <!-- Delete Student Servlet Mapping -->
 
-<!--   <servlet-mapping>
+  <servlet-mapping>
     <servlet-name>DeleteStudentServlet</servlet-name>
     <url-pattern>/deleteStudent</url-pattern>
-  </servlet-mapping> -->
+  </servlet-mapping>
 
 </web-app>

@@ -5,7 +5,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<title>ViewStudent</title>
+	<title>SearchStudent</title>
 	<style>
 		.button {
 	font: bold 11px Arial;
@@ -23,13 +23,15 @@
 
 <body>
 	<Center>
-		<h1>View Student</h1>
+		<h1>Search Student</h1>
 		<br />
 		<br />
 		<form>
-			Enter Username
-			<input type="text" name="username" placeholder="Enter username" /> <br /> <br />
+			Enter ID
+			<input type="text" name="id" placeholder="Enter ID" /> <br /> <br />
 			<input type="submit" value="View" name="view" onclick="form.action='/StudentRepository-1.0/viewStudent';form.method='get'" />
+			<input type="submit" value="Edit" name="edit" onclick="form.action='/StudentRepository-1.0/searchStudent';form.method='get'" />
+			<input type="submit" value="Delete" name="delete" onclick="form.action='/StudentRepository-1.0/deleteStudent';form.method='get'" />
 			<a href="student.jsp" class="button">Go to Homepage</a>
 		</form>
 	</Center>

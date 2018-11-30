@@ -30,7 +30,7 @@ public class ViewStudentServlet extends HttpServlet {
 			throws ServletException, IOException {
 
 		ViewStudentService viewStudentService = new ViewStudentService();
-		StudentBean studentBean = viewStudentService.viewStudent(request.getParameter("username"));
+		StudentBean studentBean = viewStudentService.viewStudent(Integer.parseInt(request.getParameter("id")));
 
 		if (studentBean != null) {
 

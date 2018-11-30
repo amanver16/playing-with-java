@@ -6,9 +6,9 @@ import java.sql.SQLException;
 
 public class JdbcConnection {
 
-	private String databaseURL = "jdbc:sqlserver://mysqlserver.cb7nxw5w5k4w.us-east-2.rds.amazonaws.com;databaseName=StudentDb;";
-	private String usr = "amanver16";
-	private String pd = "M3dh!Sql";
+	private String databaseURL = "jdbc:sqlserver://YourDatabaseURL;databaseName=YourDatabaseName;";
+	private String usr = "GiveUsername";
+	private String pd = "GivePassword";
 
 	public Connection getJdbcConnection() throws SQLException {
 		return DriverManager.getConnection(databaseURL, usr, pd);

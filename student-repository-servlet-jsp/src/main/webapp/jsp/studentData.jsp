@@ -6,6 +6,19 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <title>Student Data</title>
+    <style>
+        .button {
+            font: bold 11px Arial;
+            text-decoration: none;
+            background-color: #EEEEEE;
+            color: #333333;
+            padding: 2px 6px 2px 6px;
+            border-top: 1px solid #CCCCCC;
+            border-right: 1px solid #333333;
+            border-bottom: 1px solid #333333;
+            border-left: 1px solid #CCCCCC;
+        }
+    </style>
 </head>
 
 <body>
@@ -13,7 +26,7 @@
         <h1>Student Data</h1>
         <br />
         <br />
-        <table style="width:100%">
+        <table border="1px">
             <tr>
                 <th>ID</th>
                 <th>Name</th>
@@ -31,6 +44,9 @@
                 <td>${phone}</td>
             </tr>
         </table>
+        <br />
+        <br />
+        <a href="jsp/student.jsp" class="button">Go to Homepage</a>
     </Center>
 </body>
 
