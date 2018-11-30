@@ -35,9 +35,6 @@ public class EditStudentView extends VerticalLayout implements View {
 	private String address;
 	private String contact;
 	
-	private FormLayout editStudentFormLayout;
-	private FormLayout editDetailsFormLayout;
-	
 	private TextField idField;
 	private TextField nameField;
 	private TextField genderField;
@@ -48,13 +45,15 @@ public class EditStudentView extends VerticalLayout implements View {
 	private TextField passworField;
 
 	public EditStudentView() {
+
 		this.addStyleName("desktop");
 		
 		Panel editStudentPanel = new Panel("<center>Edit Student</center>");
-		editStudentPanel.setSizeUndefined();
+		editStudentPanel.setWidth("350px");
+		editStudentPanel.addStyleName("test");
 		addComponent(editStudentPanel);
 		
-		editStudentFormLayout = new FormLayout();
+		FormLayout editStudentFormLayout = new FormLayout();
 
 		final TextField searchIdField = new TextField("ID");
 		searchIdField.setInputPrompt("Enter id");
