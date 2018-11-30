@@ -31,25 +31,25 @@
 			<AppenderRef ref="Console" />
 		</Root>
 		<Logger
-			name="com.stpl.trainee.aman.assignment8.studentrepository.service.AddStudentService"
+			name="com.aman.app.springrest.webservice.services.AddStudentService"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="AddStudentService" />
 		</Logger>
 		<Logger
-			name="com.stpl.trainee.aman.assignment8.studentrepository.service.RemoveStudentService"
+			name="com.aman.app.springrest.webservice.services.RemoveStudentService"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="RemoveStudentService" />
 		</Logger>
 		<Logger
-			name="com.stpl.trainee.aman.assignment8.studentrepository.service.ShowStudentService"
+			name="com.aman.app.springrest.webservice.services.ShowStudentService"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="ShowStudentService" />
 		</Logger>
 		<Logger
-			name="com.stpl.trainee.aman.assignment8.studentrepository.service.EditStudentService"
+			name="com.aman.app.springrest.webservice.services.EditStudentService"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="EditStudentService" />

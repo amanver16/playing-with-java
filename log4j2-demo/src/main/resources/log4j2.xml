@@ -29,7 +29,7 @@
 	<Loggers>
 
 		<!-- Main Client Logger -->
-		<Logger name="com.stpl.trainee.aman.assignment1.ui.MainClient"
+		<Logger name="com.aman.log4j2.MainClient"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<AppenderRef ref="Main" />

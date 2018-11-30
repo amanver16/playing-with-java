@@ -74,7 +74,7 @@
 
 		<!-- Employee Menu Logger -->
 
-		<Logger name="com.stpl.trainee.aman.miniproject1.employee.ui.EmployeeMenu"
+		<Logger name="com.aman.jdbc.employee.ui.EmployeeMenu"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="EmployeeMenu" />
@@ -82,7 +82,7 @@
 
 		<!-- Employee Menu Logger -->
 
-		<Logger name="com.stpl.trainee.aman.miniproject1.employee.ui.EmployeeMenu"
+		<Logger name="com.aman.jdbc.employee.ui.EmployeeMenu"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="EmployeeMenu" />
@@ -91,7 +91,7 @@
 		<!-- Employee JDBC Connection Logger -->
 
 		<Logger
-			name="com.stpl.trainee.aman.miniproject1.employee.connection.EmployeeJdbcConnection"
+			name="com.aman.jdbc.employee.connection.EmployeeJdbcConnection"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="Connection" />
@@ -100,7 +100,7 @@
 		<!-- Add Employee Service Logger -->
 
 		<Logger
-			name="com.stpl.trainee.aman.miniproject1.employee.service.AddEmployeeService"
+			name="com.aman.jdbc.employee.service.AddEmployeeService"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="AddEmployee" />
@@ -109,7 +109,7 @@
 		<!-- Delete Employee Service Logger -->
 
 		<Logger
-			name="com.stpl.trainee.aman.miniproject1.employee.service.DeleteEmployeeService"
+			name="com.aman.jdbc.employee.service.DeleteEmployeeService"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="DeleteEmployee" />
@@ -118,7 +118,7 @@
 		<!-- Update Employee Service Logger -->
 
 		<Logger
-			name="com.stpl.trainee.aman.miniproject1.employee.service.UpdateEmployeeService"
+			name="com.aman.jdbc.employee.service.UpdateEmployeeService"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="UpdateEmployee" />
@@ -127,7 +127,7 @@
 		<!-- Show Employee Service Logger -->
 
 		<Logger
-			name="com.stpl.trainee.aman.miniproject1.employee.service.ShowEmployeeService"
+			name="com.aman.jdbc.employee.service.ShowEmployeeService"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="ShowEmployee" />

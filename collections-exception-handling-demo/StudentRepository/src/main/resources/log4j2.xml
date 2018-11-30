@@ -43,7 +43,7 @@
 		<!-- Student Menu Logger -->
 
 		<Logger
-			name="com.stpl.trainee.aman.assignment3.studentrepository.ui.StudentMenu"
+			name="com.aman.java.studentrepository.ui.StudentMenu"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="Menu" />
@@ -52,7 +52,7 @@
 		<!-- Student Service Logger -->
 
 		<Logger
-			name="com.stpl.trainee.aman.assignment3.studentrepository.service.StudentService"
+			name="com.aman.java.studentrepository.service.StudentService"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="Service" />

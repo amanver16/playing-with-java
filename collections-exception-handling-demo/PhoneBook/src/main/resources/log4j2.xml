@@ -42,7 +42,7 @@
 
 		<!-- Phone Menu Logger -->
 
-		<Logger name="com.stpl.trainee.aman.assignment3.phonebook.ui.PhoneMenu"
+		<Logger name="com.aman.java.phonebook.ui.PhoneMenu"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="Menu" />
@@ -51,7 +51,7 @@
 		<!-- Phone Book Service Logger -->
 
 		<Logger
-			name="com.stpl.trainee.aman.assignment3.phonebook.service.PhoneBookService"
+			name="com.aman.java.phonebook.service.PhoneBookService"
 			level="info" additivity="false">
 			<AppenderRef ref="Console" />
 			<appender-ref ref="Service" />

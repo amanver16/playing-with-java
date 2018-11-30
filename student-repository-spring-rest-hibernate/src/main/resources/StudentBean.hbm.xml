@@ -5,7 +5,7 @@
 	default-cascade="none" default-lazy="true">
 	<class catalog="StudentDb" dynamic-insert="false"
 		dynamic-update="false" mutable="true"
-		name="com.stpl.trainee.aman.springrest.webservice.beans.StudentBean"
+		name="com.aman.app.springrest.webservice.beans.StudentBean"
 		optimistic-lock="version" polymorphism="implicit" schema="dbo"
 		select-before-update="false" table="GiveStudentTableNameHere">
 		<id name="id" type="int">
