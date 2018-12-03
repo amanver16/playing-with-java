@@ -22,7 +22,7 @@ Other components, i.e. **HandlerMapping** and **ViewResolver** are parts of **We
 This project demonstrates uses of SpringMVC in StudentRepository Web Application.
 
 ## Technologies Used
-* Spring MVC v4.0.1.RELEASE
+* Spring MVC v5.1.3.RELEASE
 * JDK v1.8
 * Servlet v3.0.1
 * JSP v2.3.1
