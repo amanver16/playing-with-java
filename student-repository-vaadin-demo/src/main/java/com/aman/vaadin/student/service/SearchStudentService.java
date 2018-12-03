@@ -9,9 +9,9 @@ import com.aman.vaadin.student.bean.StudentBean;
 import com.aman.vaadin.student.connection.JdbcConnection;
 import com.aman.vaadin.student.constant.DbQueryConstant;
 
-public class ShowStudentService {
+public class SearchStudentService {
 
-    public StudentBean viewStudent(int id) {
+    public StudentBean searchStudent(int id) {
 
         JdbcConnection jdbcConnection = new JdbcConnection();
 
@@ -24,6 +24,7 @@ public class ShowStudentService {
                 StudentBean studentBean = new StudentBean();
 
                 if (resultSet.next()) {
+                    
                     studentBean.setId(resultSet.getInt(1));
                     studentBean.setName(resultSet.getString(2));
                     studentBean.setGender(resultSet.getString(3));
@@ -32,9 +33,9 @@ public class ShowStudentService {
                     studentBean.setPhone(resultSet.getInt(6));
                     studentBean.setUsername(resultSet.getString(7));
                     studentBean.setPassword(resultSet.getString(8));
-                }
 
-                return studentBean;
+                    return studentBean;
+                }
 
             }
         } catch (SQLException sqlException) {

@@ -17,6 +17,6 @@ public class EditButtonClickListener implements ClickListener {
 
 	@Override
 	public void buttonClick(ClickEvent clickEvent) {
-		mainMenuView.getUI().getNavigator().navigateTo(MyUi.SHOWVIEW);
+		mainMenuView.getUI().getNavigator().navigateTo(MyUi.EDITVIEW);
 	}
 }

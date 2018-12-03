@@ -17,6 +17,6 @@ public class RemoveButtonClickListener implements ClickListener {
 	
 	@Override
     public void buttonClick(ClickEvent clickEvent) {
-		mainMenuView.getUI().getNavigator().navigateTo(MyUi.SEARCHVIEW);
+		mainMenuView.getUI().getNavigator().navigateTo(MyUi.REMOVEVIEW);
 	}
 }

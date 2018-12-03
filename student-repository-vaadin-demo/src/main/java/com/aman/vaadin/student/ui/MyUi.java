@@ -23,9 +23,8 @@ public class MyUi extends UI {
 	public static final String MAINVIEW = "Student Repository";
 	public static final String ADDVIEW = "Add Student";
 	public static final String REMOVEVIEW = "Remove Student";
-	public static final String EDITVIEW = "Edit Student Details";
+	public static final String EDITVIEW = "Edit Student";
 	public static final String SHOWVIEW = "Show Student";
-	public static final String SEARCHVIEW = "Search Student";
 
 	@Override
 	protected void init(VaadinRequest vaadinRequest) {
@@ -39,7 +38,6 @@ public class MyUi extends UI {
 		navigator.addView(REMOVEVIEW, new RemoveStudentView());
 		navigator.addView(SHOWVIEW, new ShowStudentView());
 		navigator.addView(EDITVIEW, new EditStudentView());
-		navigator.addView(SEARCHVIEW, new SearchStudentView());
 
 	}
 

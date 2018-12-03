@@ -8,6 +8,7 @@ import com.vaadin.ui.Button.ClickListener;
 public class BackButtonClickListener implements ClickListener {
 
 	private static final long serialVersionUID = 1L;
+	
 	private AddStudentView addStudentView;
 
 	public BackButtonClickListener(AddStudentView addStudentView) {

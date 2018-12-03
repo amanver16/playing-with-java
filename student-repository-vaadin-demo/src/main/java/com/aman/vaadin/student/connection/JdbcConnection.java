@@ -6,9 +6,9 @@ import java.sql.SQLException;
 
 public class JdbcConnection {
 
-	private String databaseURL = "jdbc:sqlserver://mysqlserver.cb7nxw5w5k4w.us-east-2.rds.amazonaws.com;databaseName=StudentDb";
-	private String user = "amanver16";
-	private String pass = "M3dh!Sql";
+	private String databaseURL = "jdbc:sqlserver://UseDatabaseServerURL;databaseName=StudentDb";
+	private String user = "GiveUsername";
+	private String pass = "GivePassword";
 
 	// Method to establish connection
 	public Connection getJdbcConnection() throws SQLException {

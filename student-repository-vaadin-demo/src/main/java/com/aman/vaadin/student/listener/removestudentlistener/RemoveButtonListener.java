@@ -26,7 +26,7 @@ public class RemoveButtonListener implements ClickListener {
 		if (removeStudentService.removeStudent(id)) {
 			notificationViewer.getNotification("Student Deleted Successfully !!!");
 		} else {
-			notificationViewer.getNotification("Student not deleted !!!");
+			notificationViewer.getNotification("Student is not available !!!");
 		}
 	}
 
