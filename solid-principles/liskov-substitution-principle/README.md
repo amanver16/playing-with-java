@@ -1,6 +1,6 @@
 # Liskov Substitution Principle
 
-The project demonstrates the popular software design principle i.e. Liskov Substitution Principle. The LSP principle is a part of __S.O.L.I.D.__ principles which represents third letter L. SOLID principle was introduced by **Robert.C Martin** also known as **"Uncle Bob"**. More about [OCP](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle).
+The project demonstrates the popular software design principle i.e. Liskov Substitution Principle. The LSP principle is a part of __S.O.L.I.D.__ principles which represents third letter L. SOLID principle was introduced by **Robert.C Martin** also known as **"Uncle Bob"**. More about [LSP](https://github.com/amanver16/ebooks_cheatsheets/blob/master/Java/Liskov%20Substitution%20Principle%20-%20SOLID%20Principles.pdf).
 
 The principle states,
 
